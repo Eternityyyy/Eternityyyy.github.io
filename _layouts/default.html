@@ -1,26 +1,14 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+Prologue by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Jekyll integration by Chris Bobbe | chrisbobbe.github.io
+-->
 <html>
-
-  {% include head.html %}
-
-  <body>
-
-    <span class="mobile btn-mobile-menu">
-        <i class="fa fa-list btn-mobile-menu__icon"></i>
-        <i class="fa fa-angle-up btn-mobile-close__icon hidden"></i>
-    </span>
-    
-    {% include side-panel.html %}
-
-    <div class="content-wrapper">
-        <div class="content-wrapper__inner">
-            {{ content }}
-            {% include footer.html %}
-        </div>
-    </div>
-    
-    {% include external.html %}
-    
-  </body>
-
+	{%- include head.html -%}
+	<body>
+		{{- content -}}
+		{%- include footer.html -%}
+	</body>
 </html>
