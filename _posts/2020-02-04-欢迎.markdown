@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "欢迎来到iYang!"
+categories: [ "废话" ]
+image: assets/images/demo1.jpg
+---
+​		欢迎来到iYang，2020年已经来了，没办法改变现实，那就改变状态。
+
+​		此个人主页用于记录个人生活和学习历程，如若生活上有啥建议的，技术上有啥指导的请和我联系。
