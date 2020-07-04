@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/Eternityyyy.github.io'
 disqus: 'blog'
-email: '1844671170@gmail.com'
+email: '1844671170@qq.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -23,7 +23,7 @@ authors:
       name:           yang
       site:           https://www.github.com/Eternityyyy
       avatar:         /assets/images/avatar1.jpg
-      bio:            "我是iYang的作者，这个博客记录了一些美好生活"
+      bio:            "我是iYang的作者，这个博客记录了一些美好生活。"
       email:          1844671170@qq.com
       # twitter:        https://twitter.com/wowthemesnet
 
