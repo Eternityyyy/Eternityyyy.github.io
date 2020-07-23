@@ -444,11 +444,11 @@ kbd {
     font-weight: 700; }
 
 pre {    
-    background: #eee;
+    background: var(--gray-dark);
     padding: 5px;
     font-size:14px;
   display: block;
-  color: #212529; }
+  color: var(--green); }
   pre code {
     font-size: inherit;
     color: inherit;
